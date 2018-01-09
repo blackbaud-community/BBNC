@@ -1,4 +1,4 @@
-# BBNC
+# BBNC - Responsive email templates
 The NetCommunity 7.1 SP1 release (released in July, 2017) included updates to the HTML editor used for creating email messages and email templates from within NetCommunity. One of the most important benefits of this upgrade is that the editor now includes access to the HTML <head> tag that's necessary for creating responsive design. With responsive design, your emails display optimally on any device — desktop, tablet, or smartphone.
 
 Our fantastic web designers in Blackbaud Professional Services have created three sample Email Templates that you can easily load into NetCommunity and use as a foundation for creating beautiful, modern, responsive email messages that take advantage of the head tag access. You can find them attached to this post. Detailed instructions on how to load these into NetCommunity <a href="https://kb.blackbaud.com/articles/Article/110942/">can be found here</a>.
